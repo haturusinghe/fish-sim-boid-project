@@ -19,6 +19,7 @@ Before running the project, you need to install the required Python libraries. E
 
    ```bash
    pip install pygame pygame_gui
+   pip install pygame_gui
    ```
 
 ## Running the Program
